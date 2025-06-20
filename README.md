@@ -6,6 +6,8 @@
 - 📍 Real-time location tracking
 - 🗺️ Map clustering with CoreLocation and MapKit
 - 🧱 Modular architecture using Swift Packages
+- 🎞️ Custom video reels with AVFoundation and smooth playback
+- ☁️ Optimized video uploading with background support and caching
 - 🚀 CI/CD pipelines with Fastlane, Bitrise, and TestFlight
 
 ### 🛠️ Tech Stack
