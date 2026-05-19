@@ -22,7 +22,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/uzair-khalid-937727173)
 - 🌐 [Portfolio](https://drive.google.com/file/d/1K1T9eWzz9BTHN_o6nKv06Vg49TJiNNBC/view?usp=share_link)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=UzairKhalid-crypto&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=UzairKhalid-crypto&theme=github-dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 
 Thanks for visiting my GitHub! Feel free to check out my projects or connect for collaboration.
