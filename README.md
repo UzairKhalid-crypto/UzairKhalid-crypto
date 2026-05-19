@@ -22,6 +22,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/uzair-khalid-937727173)
 - 🌐 [Portfolio](https://drive.google.com/file/d/1K1T9eWzz9BTHN_o6nKv06Vg49TJiNNBC/view?usp=share_link)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=UzairKhalid-crypto)](https://git.io/streak-stats)
+
 ---
 
 Thanks for visiting my GitHub! Feel free to check out my projects or connect for collaboration.
